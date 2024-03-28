@@ -8,7 +8,7 @@ Additional Node.js module to use with **[puppeteer](https://www.npmjs.com/packag
 Forwards intercepted requests from the browser to Node.js where it redoes the requests through a proxy and then returns the response to the browser.
 
 ## Tested on
-* Puppeteer `v21.7.0`
+* Puppeteer `v21.9.0`
 * [StableProxy Proxies](https://stableproxy.com)
 
 ## Features
